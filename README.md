@@ -2,6 +2,17 @@
 
 This project implements a gradient boosting tree classifier from first principles, following the algorithm described in Sections 10.9-10.10 of Elements of Statistical Learning (2nd Edition). The implementation includes both the decision tree base learner and the gradient boosting ensemble.
 
+## Team Information
+This project was developed by the following team members:
+1. Meet Patel
+   - Student ID: A20558374
+
+2. Baozhu Xie
+   - Student ID: A20549948
+
+3. Fatima Vahora
+   - Student ID: A20555359
+
 ## Project Structure
 
 ```
